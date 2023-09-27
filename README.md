@@ -6,12 +6,18 @@ This project is a YouTube clone created using HTML, CSS, and JavaScript. It uses
 2. All the video data is coming from YouTube directly.
 3. It has a working search bar that redirects users to the official YouTube search page.
 4. Whenever a user clicks on a video card, they will be redirected to YouTube’s official video page.
+
+   
 Installation
 1. Clone the repository.
-Open index.html in your browser.
+2. Open index.html in your browser.
+
+
 Usage
-Enter a search query in the search bar.
-Click on a video card to watch the video on YouTube.
+1. Enter a search query in the search bar.
+2. Click on a video card to watch the video on YouTube.
+
+   
 Contributing
 Contributions are welcome! Please feel free to submit a pull request.
 
